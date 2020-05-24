@@ -15,7 +15,7 @@ function App() {
       </div>
       <div className="main col-md-10">
         <section id="introduction">
-          <div className="introduction">
+          <div className="introduction" style={{ backgroundImage: 'url(/images/introbg.jpg)' }}>
             <Introduction />
           </div>
         </section>
