@@ -1,0 +1,113 @@
+html,body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: Raleway;
+}
+
+.sidebar{
+  /*background: rgb(10,139,129);
+  background: linear-gradient(60deg, rgba(10,139,129,0.9) 0%, rgba(4,196,204,0.9) 35%, rgba(0,141,195,0.9) 100%);*/
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  color: #fff!important;
+  overflow-y: auto;
+  height: 100%;
+  position: fixed;
+  font-family: poppins;
+}
+
+.main{
+  position: absolute;
+  right: 0;
+}
+
+.overlay{
+  width: 100%;
+  height: 100%;
+  background: rgb(0,0,0,0.3);
+}
+
+.sidebar-image img{
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.sidebar h3{
+  font-family: Poppins;
+}
+
+a.links{
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+}
+
+a.links:before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: currentColor;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out;
+}
+
+a.links:hover:before{
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+.sections ul{
+  padding: 0;
+  list-style: none;
+}
+
+div.introduction{
+  background-image: url("/images/introbg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.introduction{
+  color: #fff;
+  height: 100vh;
+}
+
+.gray-text{
+  color: #696969;
+  font-family: poppins;
+  font-size: 16px;
+}
+
+.rotate-text{
+  -webkit-transform:rotate(-90deg);
+  -moz-transform:rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform:rotate(-90deg);
+  transform: rotate(-90deg);
+  transform-origin: left top 0;
+}
+
+@media screen and (max-width: 768px){
+  .main{
+    position: static;
+  }
+  .sidebar{
+    display: none;
+  }
+
+  div.overlay{
+    width: 100%!important;
+  }
+}
