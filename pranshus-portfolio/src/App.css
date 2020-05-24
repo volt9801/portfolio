@@ -72,7 +72,7 @@ a.links:hover:before{
 }
 
 div.introduction{
-  background-image: url("/images/introbg.jpg");
+  background-image: url("introbg.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
