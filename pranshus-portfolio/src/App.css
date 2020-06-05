@@ -104,5 +104,6 @@ div.introduction{
 
   div.introduction{
     height: 100%!important;
+    text-align: center!important;
   }
 }
