@@ -7,7 +7,7 @@ export default class Sidebar extends Component {
 			<div className="overlay d-flex flex-column align-items-center justify-content-between p-2">
 				<div className="top">
 					<div className="sidebar-image d-flex justify-content-center mb-2">
-						<img src="pj.svg" alt="Pranshu Jha"/>
+						<img src="pj.svg" alt="Pranshu Jha" style={{ borderRadius: '50%', width: '75px', height: '75px', objectFit: 'cover' }}/>
 					</div>
 					<h3 className="title">Pranshu Jha</h3>
 					{/*<p className="small d-flex align-items-center">
