@@ -1,9 +1,10 @@
 html,body {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  min-height: 100%;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -89,15 +90,6 @@ div.introduction{
   font-size: 16px;
 }
 
-.rotate-text{
-  -webkit-transform:rotate(-90deg);
-  -moz-transform:rotate(-90deg);
-  -o-transform: rotate(-90deg);
-  -ms-transform:rotate(-90deg);
-  transform: rotate(-90deg);
-  transform-origin: left top 0;
-}
-
 @media screen and (max-width: 768px){
   .main{
     position: static;
@@ -108,5 +100,9 @@ div.introduction{
 
   div.overlay{
     width: 100%!important;
+  }
+
+  div.introdcution{
+    height: 100%!important;
   }
 }
