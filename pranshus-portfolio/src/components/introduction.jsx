@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Introduction extends Component {
 	render() {
 		return (
-			<div class="overlay d-flex align-items-center justify-content-around flex-wrap">
+			<div class="overlay d-flex align-items-center justify-content-center flex-wrap">
 					<div className="order-md-2 px-5">
 						<img src="pj.svg" alt="Pranshu Jha" style={{ borderRadius: '50%', width: '250px', height: '250px', objectFit: 'cover', border: '5px solid #fff' }}/>
 					</div>
