@@ -12,13 +12,13 @@ export default class About extends Component {
 
 					<div className="row">
 					  <div className="col-md m-2 card shadow-lg border-info" style={{ border: 0, borderBottom: '7px solid' }} data-aos="zoom-in-right" data-aos-easing="ease-in-out" data-aos-duration="750">
-					    <div className="p-2 pt-3">
+					    <div className="p-3">
 					      <h5 className="card-title">Web Dev</h5>
 					      <p className="card-text lead gray-text">I have experience building websites using HTML, CSS, Sass, JavaScript, React and, the python-framework Django.</p>
 					    </div>
 					  </div>
 					  <div className="col-md m-2 card shadow-lg border-warning" style={{ border: 0, borderBottom: '7px solid' }} data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="750">
-					    <div className="p-2 pt-3">
+					    <div className="p-3">
 					      <h5 className="card-title">Languages Known</h5>
 					      <p className="card-text lead gray-text">
 					      	<ul>
@@ -31,7 +31,7 @@ export default class About extends Component {
 					    </div>
 					  </div>
 					  <div className="col-md m-2 card shadow-lg border-success" style={{ border: 0, borderBottom: '7px solid' }} data-aos="zoom-in-left" data-aos-easing="ease-in-out" data-aos-duration="750">
-					    <div className="p-2 pt-3">
+					    <div className="p-3">
 					      <h5 className="card-title">Software</h5>
 					      <p className="card-text lead gray-text">
 					      	<ul>
