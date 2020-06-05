@@ -5,7 +5,7 @@ export default class Introduction extends Component {
 		return (
 			<div class="overlay d-flex align-items-center justify-content-around flex-wrap">
 					<div className="order-md-2 px-5">
-						<img src="pj.svg" alt="Pranshu Jha" style={{ borderRadius: '50%', width: '250px', height: '250px', objectFit: 'cover' }}/>
+						<img src="pj.svg" alt="Pranshu Jha" style={{ borderRadius: '50%', width: '250px', height: '250px', objectFit: 'cover', border: '5px solid #fff' }}/>
 					</div>
 					<div className="order-md-1 px-5">
 						<span style={{ fontSize: 25, fontFamily: 'Raleway', fontWeight: 'bold', letterSpacing: '5px' }}>Hi! I am</span>
