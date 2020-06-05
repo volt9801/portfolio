@@ -10,7 +10,7 @@ export default class Introduction extends Component {
 					<div className="order-md-1 px-5">
 						<span style={{ fontSize: 25, fontFamily: 'Raleway', fontWeight: 'bold', letterSpacing: '5px' }}>Hi! I am</span>
 						<br />
-						<span className="links" style={{ fontSize: 60, fontFamily: 'Raleway', fontWeight: 'bold', letterSpacing: '5px', borderBottom: '5px solid #fff' }}>Pranshu Jha</span>
+						<span className="links" style={{ fontSize: 50, fontFamily: 'Raleway', fontWeight: 'bold', letterSpacing: '5px', borderBottom: '5px solid #fff' }}>Pranshu Jha</span>
 					</div>
 			</div>
 		)
