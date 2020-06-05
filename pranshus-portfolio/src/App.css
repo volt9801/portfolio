@@ -108,5 +108,6 @@ div.introduction{
 
   div.intro-text{
     margin-top: 30px;
+    text-align: center!important;
   }
 }
