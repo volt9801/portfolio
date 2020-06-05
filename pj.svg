@@ -7,15 +7,46 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="P.svg"
    inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
-   sodipodi:docname="pj.svg"
-   viewBox="0 0 100 100"
-   height="100"
-   width="100"
-   id="svg2"
-   version="1.1">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 132.29167 132.29167"
+   height="500"
+   width="500">
+  <defs
+     id="defs2">
+    <rect
+       id="rect843"
+       height="71.535467"
+       width="102.78285"
+       y="38.490045"
+       x="23.596208" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="709"
+     inkscape:window-width="1366"
+     units="px"
+     borderlayer="false"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="253.03572"
+     inkscape:cx="308.80799"
+     inkscape:zoom="0.95932198"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
-     id="metadata8">
+     id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,78 +57,36 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs6">
-    <rect
-       id="rect912"
-       height="68.210235"
-       width="77.194705"
-       y="26.451848"
-       x="17.494604" />
-  </defs>
-  <sodipodi:namedview
-     inkscape:current-layer="g10"
-     inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="0"
-     inkscape:cy="67.093022"
-     inkscape:cx="56.05989"
-     inkscape:zoom="4.4667046"
-     inkscape:pagecheckerboard="true"
-     showgrid="false"
-     id="namedview4"
-     inkscape:window-height="709"
-     inkscape:window-width="1366"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
   <g
-     id="g10"
-     inkscape:label="Image"
-     inkscape:groupmode="layer">
-    <path
-       d="m 248.64317,173.88812 a 102.87325,96.122536 0 0 1 -4.7e-4,0.28841 l -102.87279,-0.28841 z"
-       sodipodi:arc-type="slice"
-       sodipodi:end="0.0030004653"
-       sodipodi:start="0"
-       sodipodi:ry="96.122536"
-       sodipodi:rx="102.87325"
-       sodipodi:cy="173.88812"
-       sodipodi:cx="145.76991"
-       sodipodi:type="arc"
-       id="path887"
-       style="fill:#ffffff;fill-opacity:1" />
-    <circle
-       r="50"
-       cy="50.039795"
-       cx="49.967808"
-       id="path891"
-       style="fill:#000000;fill-opacity:1" />
-    <circle
-       r="40"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.800001"
-       id="path891-3"
-       cx="50"
-       cy="50" />
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       ry="0"
+       y="3.469447e-18"
+       x="0"
+       height="132.29167"
+       width="132.29167"
+       id="rect835"
+       style="fill:#0f0f0f;stroke-width:0.264583;fill-opacity:1" />
     <text
-       style="line-height:1.25;font-family:Dreamscape;font-size:40px;-inkscape-font-specification:Dreamscape;white-space:pre;shape-inside:url(#rect912);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
-       id="text910"
-       xml:space="preserve" />
-    <text
-       id="text918"
-       y="69.592003"
-       x="16.930111"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.3151px;line-height:1.25;font-family:Dreamscape;-inkscape-font-specification:Dreamscape;stroke-width:1.30788"
+       style="font-size:352.778px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect843);fill:#ffffff;fill-opacity:1;"
+       id="text841"
        xml:space="preserve"><tspan
-         style="stroke-width:1.30788"
-         sodipodi:role="line"
-         y="69.592003"
-         x="16.930111"
-         id="tspan916">PJ</tspan></text>
+         style="visibility:hidden"
+         x="23.595703"
+         y="441.7167"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.778px;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, ';fill:#ffffff;fill-opacity:1">P</tspan></tspan></text>
+    <text
+       id="text855"
+       y="95.038246"
+       x="30.374281"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;font-family:'Cloister Black';-inkscape-font-specification:'Cloister Black, ';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="95.038246"
+         x="30.374281"
+         id="tspan853"
+         sodipodi:role="line">P</tspan></text>
   </g>
 </svg>
