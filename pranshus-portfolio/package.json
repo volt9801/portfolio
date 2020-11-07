@@ -1,6 +1,6 @@
 {
   "name": "pranshus-portfolio",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "homepage": "https://volt9801.github.io/portfolio/",
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "react-scrollspy": "^3.4.2",
-    "tailwindcss": "^1.5.2"
+    "tailwindcss": "^1.9.6"
   },
   "scripts": {
     "build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css",

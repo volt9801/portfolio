@@ -3,6 +3,7 @@ module.exports = {
     './src/**/*.html',
     './src/**/*.vue',
     './src/**/*.jsx',
+    './src/**/*.js',
   ],
   target: 'relaxed',
   prefix: '',
