@@ -4,15 +4,7 @@
   "icons": [
     {
       "src": "pj.svg",
-      "sizes": "64x64 32x32 24x24 16x16"
-    },
-    {
-      "src": "pj.svg",
-      "sizes": "192x192"
-    },
-    {
-      "src": "pj.svg",
-      "sizes": "512x512"
+      "sizes": "64x64 32x32 24x24 16x16 192x19 512x512"
     }
   ],
   "start_url": ".",
