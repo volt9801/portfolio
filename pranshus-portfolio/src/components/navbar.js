@@ -6,7 +6,7 @@ export default class Navbar extends Component {
 			<nav className="xl:h-screen lg:h-screen xl:w-12 lg:w-12 xl:left-0 lg:left-0 w-full h-12 bottom-0 fixed bg-salt">
 				<ul className="flex xl:flex-col lg:flex-col flex-row items-center w-full h-full">
 					<li className="w-full xl:inline-flex lg:inline-flex hidden text-white w-full items-center">
-			<span className="mx-2 whitespace-no-wrap tracking-wider text-xl font-semibold uppercase">Quicklinks</span>
+			<span className="mx-2 whitespace-no-wrap tracking-wider text-xl font-semibold">QUICKLINKS</span>
 						<svg xmlns="http://www.w3.org/2000/svg" className="animate-rotation w-10 h-10 fill-current text-white" viewBox="0 0 24 24"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M9.29 6.71c-.39.39-.39 1.02 0 1.41L13.17 12l-3.88 3.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0l4.59-4.59c.39-.39.39-1.02 0-1.41L10.7 6.7c-.38-.38-1.02-.38-1.41.01z"/></svg>
 					</li>
 		  <li className="w-full xl:my-4 lg:my-4 xl:mt-auto lg:mt-auto">
